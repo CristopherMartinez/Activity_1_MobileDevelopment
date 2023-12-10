@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FCA.Views.InicioPage"
+             xmlns:vm="clr-namespace:FCA.ViewModels"
+             Title="Inicio">
+    <ContentPage.BindingContext>
+        <vm:InicioViewModel />
+    </ContentPage.BindingContext>
+    
+    <Grid BackgroundColor="{Binding ColorAcentuacionIVM}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <!-- Bienvenido Label -->
+        <Label x:Name="UsuarioLabel"
+               Grid.Row="0"
+               Text="{Binding TxtBienvenidoIVM}"
+               TextColor="{Binding ColorTxtBienvIVM}"
+               FontAttributes="Bold"
+               FontSize="25"
+               HorizontalOptions="Center"  
+               HorizontalTextAlignment="Center"
+               Padding="20,30,20,0"/>
+        <!-- Texto de Bienvenida -->
+        <Image Source="Logo_UADY.png"
+               Grid.Row="1"
+               VerticalOptions="CenterAndExpand"
+               HorizontalOptions="Center"
+               Margin="0,120,0,140"
+               HeightRequest="250" />
+    </Grid>
+    
+</ContentPage>

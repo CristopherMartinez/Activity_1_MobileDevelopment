@@ -1,0 +1,72 @@
+﻿<Properties StartupConfiguration="{E14F2792-C6D1-4A18-BA2E-5ED70BA88573}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.FCA.Android PreferredExecutionTarget="Android.pixel_5_-_api_33" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FCA/FCA/Views/ServiciosPage.xaml.cs">
+    <Files>
+      <File FileName="FCA/FCA/Views/RegistroAlumnosPage.xaml" />
+      <File FileName="FCA/FCA/Views/RegistroAlumnosPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="FCA/FCA/AppShell.xaml" />
+      <File FileName="FCA/FCA/Data/DatabaseQuery.cs" />
+      <File FileName="FCA/FCA/Models/Alumno.cs" />
+      <File FileName="FCA/FCA/Views/InicioPage.xaml" />
+      <File FileName="FCA/FCA/Views/ItemDetailPage.xaml" />
+      <File FileName="FCA/FCA/App.xaml.cs" Line="35" Column="39" />
+      <File FileName="FCA/FCA/Models/Servicio.cs" Line="1" Column="1" />
+      <File FileName="FCA/FCA.iOS/Main.cs" />
+      <File FileName="FCA/FCA/AssemblyInfo.cs" />
+      <File FileName="FCA/FCA.Android/Properties/AssemblyInfo.cs" />
+      <File FileName="FCA/FCA.iOS/Properties/AssemblyInfo.cs" />
+      <File FileName="FCA/FCA.iOS/Info.plist" />
+      <File FileName="FCA/FCA/Views/ServiciosPage.xaml.cs" Line="76" Column="17" />
+      <File FileName="FCA/FCA/Views/AlumnosPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="FCA/FCA/Views/ItemsPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="FCA/FCA/Views/ItemDetailPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="FCA/FCA/Views/NewItemPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="FCA/FCA/Views/LoginPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="FCA/FCA/Views/ServiciosPage.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FCA" expanded="True">
+            <Node name="FCA" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="AlumnosPage.xaml" expanded="True" />
+                <Node name="ItemDetailPage.xaml" expanded="True" />
+                <Node name="ItemsPage.xaml" expanded="True" />
+                <Node name="LoginPage.xaml" expanded="True" />
+                <Node name="NewItemPage.xaml" expanded="True" />
+                <Node name="RegistroAlumnosPage.xaml" expanded="True" />
+                <Node name="ServiciosPage.xaml" expanded="True">
+                  <Node name="ServiciosPage.xaml.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="FCA.Android" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="FCA.iOS" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Debugger.DebugSourceFolders>
+    <String>/Users/cristophermartinez/Library/Caches/VisualStudio/17.0/Symbols/raw.githubusercontent.com/mono/mono/d9a6e8710b37cd7f16cf52eff4f772556e57cc41</String>
+  </Debugger.DebugSourceFolders>
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.2.0" />
+  <MonoDevelop.Ide.ItemProperties.FCA.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.EC4CFB9D-D265-4198-A7D4-A9CAC8DDAA79" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_33" />
+</Properties>
